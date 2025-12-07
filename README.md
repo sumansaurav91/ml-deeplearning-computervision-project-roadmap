@@ -1743,3 +1743,8 @@
 5. **Deploy everything** — Gradio/Streamlit demos for every project
 6. **Join communities** — Discord, Reddit, Twitter ML community
 7. **Build in public** — GitHub portfolio matters more than certificates
+
+----
+
+<img width="809" height="961" alt="Screenshot 2025-12-07 at 11 25 10 AM" src="https://github.com/user-attachments/assets/04f72ea9-59b8-4383-bba0-168b5bcef1c0" />
+
